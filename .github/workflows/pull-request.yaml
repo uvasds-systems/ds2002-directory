@@ -5,11 +5,12 @@ on:
     types:
       - closed
 
+permissions:
+  contents: write
+  issues: write
+
 jobs:
   if_merged:
-    permissions:
-      contents: write
-      issues: write
     if: github.event.pull_request.merged
     runs-on: ubuntu-latest
     defaults:
@@ -18,10 +19,11 @@ jobs:
     steps:
       - name: Check out the repo
         uses: actions/checkout@v4
+      - name: Update listings
+        run: ./directory.sh
+      - name: Commit back
       - run: |
-          ./directory.sh
           git config user.name "Neal Magee"
           git config user.email "nem2p@virginia.edu"
-          git add -A
-          git commit -m "Adding new student listing"
+          git commit -am "Adding new student listing"
           git push
