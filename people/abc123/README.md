@@ -1,3 +1,3 @@
-# Generic Student
+# Rufus Wainwright
 
 Testing 1 2 3
