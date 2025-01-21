@@ -14,11 +14,9 @@ jobs:
         working-directory: ./people
     steps:
       - name: Check out the repo
-        uses: actions/checkout@v4  
-      - name: Build directory
-        run: ./directory.sh
-      - name: Add-Commit-Push
-        run: |
+        uses: actions/checkout@v4
+      - run: |
+          ./directory.sh
           git config user.name "Neal Magee"
           git config user.email "nem2p@virginia.edu"
           git add -a
