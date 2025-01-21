@@ -9,8 +9,7 @@ permissions:
   pages: write
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged
+  on_pr:
     runs-on: ubuntu-latest
     defaults:
       run:
