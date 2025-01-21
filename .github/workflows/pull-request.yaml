@@ -7,9 +7,11 @@ permissions:
   contents: write
   issues: write
   pages: write
+  pull-requests: write
 
 jobs:
   on_pr:
+    if: github.event.pull_request.merged
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -18,7 +20,6 @@ jobs:
       - name: Check out the repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT }}
           ref: ${{ github.head_ref }}
       - name: Update listings
         run: ./directory.sh
