@@ -1,6 +1,6 @@
 # Neal Magee
 
-![My Image](https://avatars.githubusercontent.com/u/699798?v=4)
+<img src="https://avatars.githubusercontent.com/u/699798?v=4" style="float:right; width:200px;" />
 
 - **Hometown**: Orlando, FL
 - **Hobbies**: Cycling, music (guitar, banjo, piano), making things
