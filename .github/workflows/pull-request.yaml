@@ -18,7 +18,6 @@ jobs:
       - name: Build directory
         run: ./directory.sh
       - name: Add-Commit-Push
-        uses: actions/checkout@v4
         run: |
           git config user.name "Neal Magee"
           git config user.email "nem2p@virginia.edu"
