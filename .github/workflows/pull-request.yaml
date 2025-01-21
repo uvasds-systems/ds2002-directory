@@ -10,5 +10,4 @@ jobs:
     if: github.event.pull_request.merged
     runs-on: ubuntu-latest
     steps:
-    - run: |
-      echo Success
+    - run: date
