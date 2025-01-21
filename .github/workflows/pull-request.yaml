@@ -2,8 +2,7 @@ name: Merge Pull Request
 
 on:
   pull_request
-    types:
-    - closed
+    types: [closed]
 
 permissions:
   contents: write
