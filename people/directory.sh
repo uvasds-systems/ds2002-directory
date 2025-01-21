@@ -23,5 +23,3 @@ done
 mv README.md ../README.md
 
 cd ../
-
-exit 0
