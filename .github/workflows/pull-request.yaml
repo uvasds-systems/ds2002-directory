@@ -1,13 +1,12 @@
 name: Merge Pull Request
 
 on:
-  pull_request:
-    types:
-      - closed
+  pull_request
 
 permissions:
   contents: write
   issues: write
+  pages: write
 
 jobs:
   if_merged:
@@ -19,6 +18,8 @@ jobs:
     steps:
       - name: Check out the repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
       - name: Update listings
         run: ./directory.sh
       - name: Commit back
