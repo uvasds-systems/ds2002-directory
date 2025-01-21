@@ -22,13 +22,4 @@ done
 # move to base dir
 mv README.md ../README.md
 
-# git things and commit
-git config --global user.email "nem2p@virginia.edu"
-git config --global user.name "N Magee"
-
-cd ..
-git add .
-git commit -m "New student added"
-git push origin main
-
-exit
+exit 0

@@ -13,7 +13,15 @@ jobs:
       run:
         working-directory: ./people
     steps:
-      - name: Check out the repository to the runner
+      - name: Check out the repo
         uses: actions/checkout@v4  
-      - name: Build the directory
+      - name: Build directory
         run: ./directory.sh
+      - name: Add-Commit-Push
+        uses: actions/checkout@v4
+        run: |
+          git config user.name "Neal Magee"
+          git config user.email "nem2p@virginia.edu"
+          git add .
+          git commit -m "Adding new student listing"
+          git push
