@@ -6,3 +6,5 @@
 - **Hobbies**: Cycling, music (guitar, banjo, piano), making things
 - **First Computer I Ever Touched**: A DEC mainframe in my father's pharmacy
 - [**My GitHub Profile**](https://github.com/nmagee/)
+
+Here are more changes.
