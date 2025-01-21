@@ -1,3 +1,8 @@
-:+1: Thanks for the PR -  if it passes the build test, it will be merged!
+# Pull Request Opened :thumbsup:
 
-Ready for review by @nmagee
+Thank you for submitting your proposed changes to this project. The editor @nmagee will review your contribution and
+choose either to accept or reject your revisions.
+
+Please discard your downstream fork if your changes are accepted and this was your only revision.
+
+Thanks!
