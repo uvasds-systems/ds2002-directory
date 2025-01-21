@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.name "Neal Magee"
           git config user.email "nem2p@virginia.edu"
-          git add .
+          git add -a
           git commit -m "Adding new student listing"
           git push

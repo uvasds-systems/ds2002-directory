@@ -22,4 +22,6 @@ done
 # move to base dir
 mv README.md ../README.md
 
+cd ../
+
 exit 0
