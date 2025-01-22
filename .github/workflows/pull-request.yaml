@@ -16,11 +16,13 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - name: Git Pull
-        run: |
-          git pull origin main
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ secrets.PAT }}
+      # - name: Git Pull
+      #   run: |
+      #     git pull origin main
       - name: Build and Commit
         run: |
           ./directory.sh
