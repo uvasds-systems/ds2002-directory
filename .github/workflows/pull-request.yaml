@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Build and Commit
         run: |
-          docker run -it -e PAT="${{ secrets.PAT }}" ghcr.io/nmagee/ds2002-directory:v1
+          docker run -e PAT=${{ secrets.PAT }} ghcr.io/nmagee/ds2002-directory:v1
