@@ -1,3 +1,3 @@
-# Rufus L Wainwright
+# Rufus Wainwright
 
 blah blah
