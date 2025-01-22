@@ -1,0 +1,18 @@
+name: Merge Pull Request
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  post_merge:
+    if: github.event.pull_request.merged
+    runs-on: ubuntu-latest
+    env:
+      PAT: ${{ secrets.PAT }}
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Docker Build
+        run: docker run -e PAT=${{ secrets.PAT }} ghcr.io/nmagee/ds2002-directory:v1
