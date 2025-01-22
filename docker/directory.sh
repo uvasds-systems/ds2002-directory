@@ -1,6 +1,10 @@
-#!/usr/bin/bash
+#!/bin/sh
 
-# set -evx
+set -evx
+
+git clone https://nmagee:$PAT@github.com/uvasds-systems/ds2002-directory
+
+cd ds2002-directory/people/
 
 # Blow away the README and rebuild
 touch README.md
@@ -22,4 +26,9 @@ done
 # move to base dir
 mv README.md ../README.md
 
-cd ../
+cd ..
+
+git config --global user.email "nem2p@virginia.edu"
+git config --global user.name "N Magee"
+git commit -am "updated directory via merge"
+git push origin main
