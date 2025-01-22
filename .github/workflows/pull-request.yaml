@@ -3,11 +3,10 @@ name: Merge Pull Request
 on:
   pull_request:
     types: [closed]
-  workflow_dispatch:
 
 jobs:
   on_pr:
-    # if: github.event.pull_request.merged
+    if: github.event.pull_request.merged
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -18,15 +17,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          token: ${{ secrets.PAT }}
+          ref: ${{ github.head_ref }}
+          # token: ${{ secrets.PAT }}
       # - name: Git Pull
       #   run: |
       #     git pull origin main
       - name: Build and Commit
         run: |
           ./directory.sh
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'N Magee'
+          git config user.email 'nem2p@users.noreply.github.com'
           git commit -am "Update directory listing [skip ci]" || echo "No changes to commit"
-          git push origin main
+          git push
