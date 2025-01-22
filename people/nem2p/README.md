@@ -1,4 +1,4 @@
-# Neal Magee
+# Nick Magee
 
 <img src="https://avatars.githubusercontent.com/u/699798?v=4" align="right" style="float:right; width:200px;" />
 
