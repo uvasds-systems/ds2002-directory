@@ -9,9 +9,12 @@ jobs:
   on_pr:
     # if: github.event.pull_request.merged
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./people
     permissions:
       contents: write
-    working-directory: people
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
