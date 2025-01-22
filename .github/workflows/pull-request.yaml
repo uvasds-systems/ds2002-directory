@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    working-directory: people
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,7 +20,7 @@ jobs:
           git pull origin main
       - name: Build and Commit
         run: |
-          ./docker/directory.sh
+          ./directory.sh
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git commit -am "Update directory listing [skip ci]" || echo "No changes to commit"

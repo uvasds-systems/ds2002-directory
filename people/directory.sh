@@ -3,8 +3,6 @@
 set -evx
 
 # git clone https://nmagee:$PAT@github.com/uvasds-systems/ds2002-directory
-
-cd ../people
 # cd ds2002-directory/people/
 
 # Blow away the README and rebuild
