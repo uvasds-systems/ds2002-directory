@@ -14,15 +14,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Build and Commit
-        env:
-          PAT: ${{ secrets.PAT }}
+      - name: Git Pull
         run: |
+          git pull origin main
+      - name: Build and Commit
+        run: |
+          ./docker/directory.sh
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          docker run -e PAT=${{ secrets.PAT }} ghcr.io/nmagee/ds2002-directory:v1
-          # docker run -v ${{ github.workspace }}:/app -e PAT=${{ secrets.PAT }} ghcr.io/nmagee/ds2002-directory:v1
-          git add .
-          git commit -m "Update directory listing [skip ci]" || echo "No changes to commit"
-          git push
+          git commit -am "Update directory listing [skip ci]" || echo "No changes to commit"
+          git push origin main
