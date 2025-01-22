@@ -5,7 +5,7 @@ on:
     types: [closed]
 
 jobs:
-  on_pr:
+  post_merge:
     if: github.event.pull_request.merged
     runs-on: ubuntu-latest
     defaults:
@@ -17,7 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          repository: uvasds-systems/ds2002-directory
+          # ref: ${{ github.head_ref }}
           # token: ${{ secrets.PAT }}
       # - name: Git Pull
       #   run: |
