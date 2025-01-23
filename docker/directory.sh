@@ -2,6 +2,9 @@
 
 set -evx
 
+rm -Rf ds2002-directory/
+
+git clone https://$PAT@github.com/uvasds-systems/ds2002-directory
 cd ds2002-directory/people/
 
 # Blow away the README and rebuild
@@ -17,7 +20,8 @@ echo " " >> README.md
 for dir in */; do
     if [ -d "$dir" ]; then
         NAME=`head -1 $dir/README.md | sed -e 's/#//g;'`
-        echo "- [$NAME](people/$dir)" >> README.md
+        plaindir=${dir%/}
+        echo "- **$plaindir** - [$NAME](people/$dir)" >> README.md
     fi
 done
 
