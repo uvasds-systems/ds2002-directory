@@ -1,3 +1,0 @@
-# Loudon Wainwright
-
-blah blah
