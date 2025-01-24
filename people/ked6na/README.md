@@ -1,6 +1,6 @@
 # Troy S. Meink
 
-
+![Image](https://github.com/user-attachments/assets/5a18dd8d-1959-41a0-bbca-899a8e8b59da)
 
 - Hometown: Torrance, CA
 - Hobbies: Woodworking
