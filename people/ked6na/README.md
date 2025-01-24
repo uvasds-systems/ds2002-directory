@@ -1,6 +1,6 @@
 # Troy S. Meink
 
-!people/ked6na/dogs.jpg
+
 
 - Hometown: Torrance, CA
 - Hobbies: Woodworking
