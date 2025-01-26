@@ -1,6 +1,6 @@
 # Shriya Dale
 
-![Path to an image](https://unsplash.com/photos/a-stuffed-bear-on-a-beach-dePZUxrSsHs)
+![image](./teddy%20bear.png)
 
 - Hometown: Ashburn, VA
 - Hobbies: Going to the gym and painting 
