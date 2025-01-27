@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(10 people\)
+A people directory for DS2002 \(11 people\)
  
 - **cwe9gz** - [ Anthony Jiang](people/cwe9gz//README.md)
 - **dyd6mg** - [ Kira Chung](people/dyd6mg//README.md)
@@ -12,3 +12,4 @@ A people directory for DS2002 \(10 people\)
 - **pxr6gr** - [ Justin Yang](people/pxr6gr//README.md)
 - **usp4pg** - [ Vincent Zhang](people/usp4pg//README.md)
 - **ync5ad** - [ Kaden Nguyen](people/ync5ad//README.md)
+- **zmx3ra** - [ Rachel Kersey](people/zmx3ra//README.md)
