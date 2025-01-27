@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(8 people\)
+A people directory for DS2002 \(7 people\)
  
 - **cwe9gz** - [ Anthony Jiang](people/cwe9gz//README.md)
 - **dyd6mg** - [ Kira Chung](people/dyd6mg//README.md)
