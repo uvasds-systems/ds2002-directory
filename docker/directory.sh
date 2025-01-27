@@ -10,10 +10,14 @@ cd ds2002-directory/people/
 # Blow away the README and rebuild
 touch README.md
 
+# Get entry count
+COUNT=`ls -al | wc -l`
+COUNT=$((COUNT - 4))
+
 # readme boilerplate
 echo "# ds2002-directory" > README.md
 echo " " >> README.md
-echo "A people directory for DS2002" >> README.md
+echo "A people directory for DS2002 \($COUNT people\)" >> README.md
 echo " " >> README.md
 
 # fetch name of each person and set up tree
