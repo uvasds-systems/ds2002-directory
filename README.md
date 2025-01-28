@@ -1,8 +1,9 @@
 # ds2002-directory
  
-A people directory for DS2002 \(11 people\)
+A people directory for DS2002 \(12 people\)
  
 - **cwe9gz** - [ Anthony Jiang](people/cwe9gz//README.md)
+- **cww2qv** - [ Maggie Welch](people/cww2qv//README.md)
 - **dyd6mg** - [ Kira Chung](people/dyd6mg//README.md)
 - **gzy5jd** - [ Jackson Glass](people/gzy5jd//README.md)
 - **ked6na** - [ Troy S. Meink](people/ked6na//README.md)
