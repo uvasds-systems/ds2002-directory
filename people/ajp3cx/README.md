@@ -1,6 +1,6 @@
 # Sami Kang
 
-![Path to an image](sami's headshot.jpg)
+![Path to an image](headshot.jpg)
 
 - Hometown: Chantilly, VA
 - Hobbies: Pickleball and Badminton
