@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(15 people\)
+A people directory for DS2002 \(16 people\)
  
 - **cwe9gz** - [ Anthony Jiang](people/cwe9gz//README.md)
 - **cww2qv** - [ Maggie Welch](people/cww2qv//README.md)
@@ -8,6 +8,7 @@ A people directory for DS2002 \(15 people\)
 - **fyr5ht** - [ Harry Shield](people/fyr5ht//README.md)
 - **gzy5jd** - [ Jackson Glass](people/gzy5jd//README.md)
 - **jdx7es** - [ Bowen Slingluff](people/jdx7es//README.md)
+- **jmf5em** - [ Pallavi Mamillapalli](people/jmf5em//README.md)
 - **ked6na** - [ Troy S. Meink](people/ked6na//README.md)
 - **mmk2yy** - [ Shriya Dale](people/mmk2yy//README.md)
 - **mqy3wj** - [ Tanya Sharma](people/mqy3wj//README.md)
@@ -17,4 +18,3 @@ A people directory for DS2002 \(15 people\)
 - **usp4pg** - [ Vincent Zhang](people/usp4pg//README.md)
 - **ync5ad** - [ Kaden Nguyen](people/ync5ad//README.md)
 - **zmx3ra** - [ Rachel Kersey](people/zmx3ra//README.md)
-- **uyn4rh** - [ Ellah Thomas](people/uyn4rh//README.md)
