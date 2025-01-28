@@ -1,6 +1,6 @@
 # Bowen Slingluff
 
-![./](me.jpg)
+![image](https://github.com/bowenslingluff/ds2002-directory/blob/main/people/jdx7es/me.jpeg)
 
 - Hometown: Rockport, MA
 - Hobbies: I enjoy golfing, cooking, lifting, hiking, and watching Boston sports teams.
