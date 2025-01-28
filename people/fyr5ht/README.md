@@ -1,6 +1,6 @@
 # Harry Shield
 
-![/Users/harryshield/Downloads](myphoto.jpg)
+![Photo of Me](myphoto.jpg)
 
 - Hometown: Herndon, Virginia 
 - Hobbies: Cooking, music (piano, oboe), golfing, basketball
