@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(23 people\)
+A people directory for DS2002 \(24 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -10,6 +10,7 @@ A people directory for DS2002 \(23 people\)
 - **ewg2bd** - [ Maggie Laflam](people/ewg2bd//README.md)
 - **fyr5ht** - [ Harry Shield](people/fyr5ht//README.md)
 - **gbv6nj** - [ Amanda Nordwall](people/gbv6nj//README.md)
+- **ghn9zh** - [Gwen Thompson](people/ghn9zh//README.md)
 - **gzy5jd** - [ Jackson Glass](people/gzy5jd//README.md)
 - **jdx7es** - [ Bowen Slingluff](people/jdx7es//README.md)
 - **jjk2jy** - [ Eileen Kopp](people/jjk2jy//README.md)
