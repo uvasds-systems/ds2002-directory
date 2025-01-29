@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(20 people\)
+A people directory for DS2002 \(21 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -11,6 +11,7 @@ A people directory for DS2002 \(20 people\)
 - **gbv6nj** - [ Amanda Nordwall](people/gbv6nj//README.md)
 - **gzy5jd** - [ Jackson Glass](people/gzy5jd//README.md)
 - **jdx7es** - [ Bowen Slingluff](people/jdx7es//README.md)
+- **jjk2jy** - [ Eileen Kopp](people/jjk2jy//README.md)
 - **jmf5em** - [ Pallavi Mamillapalli](people/jmf5em//README.md)
 - **ked6na** - [ Troy S. Meink](people/ked6na//README.md)
 - **mmk2yy** - [ Shriya Dale](people/mmk2yy//README.md)
