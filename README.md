@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(19 people\)
+A people directory for DS2002 \(20 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -8,6 +8,7 @@ A people directory for DS2002 \(19 people\)
 - **cww2qv** - [ Maggie Welch](people/cww2qv//README.md)
 - **dyd6mg** - [ Kira Chung](people/dyd6mg//README.md)
 - **fyr5ht** - [ Harry Shield](people/fyr5ht//README.md)
+- **gbv6nj** - [ Amanda Nordwall](people/gbv6nj//README.md)
 - **gzy5jd** - [ Jackson Glass](people/gzy5jd//README.md)
 - **jdx7es** - [ Bowen Slingluff](people/jdx7es//README.md)
 - **jmf5em** - [ Pallavi Mamillapalli](people/jmf5em//README.md)
