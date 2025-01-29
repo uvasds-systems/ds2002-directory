@@ -2,15 +2,17 @@
 
 set -evx
 
+# blow away any old repo copy in pod
 rm -Rf ds2002-directory/
 
+# pull in the repo
 git clone https://$PAT@github.com/uvasds-systems/ds2002-directory
 cd ds2002-directory/people/
 
 # Blow away the README and rebuild
 touch README.md
 
-# Get entry count
+# Get total entry count
 COUNT=`ls -al | wc -l`
 COUNT=$((COUNT - 4))
 
@@ -29,12 +31,23 @@ for dir in */; do
     fi
 done
 
-# move to base dir
+# move file to base dir and follow it
 mv README.md ../README.md
-
 cd ..
 
+# perform global git setup things
 git config --global user.email "nem2p@virginia.edu"
 git config --global user.name "N Magee"
-git commit -am "updated directory via merge"
-git push origin main
+
+# determine if there's anything to commit+push
+# --porcelain gives clean machine-readable output
+if [ -z "$(git status --porcelain)" ]; then 
+# if [ $(git status --porcelain) == "" ]; then
+  echo "Working tree clean. Stop"
+  exit 0
+else
+  echo "Working tree has changes"
+  git commit -am "updated directory via merge"
+  git push origin main
+  exit 0
+fi
