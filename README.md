@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(26 people\)
+A people directory for DS2002 \(27 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -28,3 +28,4 @@ A people directory for DS2002 \(26 people\)
 - **vxn4cm** - [ Ronit Malhotra](people/vxn4cm//README.md)
 - **ync5ad** - [ Kaden Nguyen](people/ync5ad//README.md)
 - **zmx3ra** - [ Rachel Kersey](people/zmx3ra//README.md)
+- **znv2ef** - [ Sierra Platt](people/znv2ef//README.md)
