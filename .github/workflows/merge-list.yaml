@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Docker Build
-        run: docker run ghcr.io/nmagee/ds2002-directory:v2
+        run: docker run ghcr.io/nmagee/ds2002-directory:v3
