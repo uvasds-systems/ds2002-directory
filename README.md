@@ -1,9 +1,10 @@
 # ds2002-directory
  
-A people directory for DS2002 \(49 people\)
+A people directory for DS2002 \(50 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
+- **asr7cd** - [ Hasita Nalluri](people/asr7cd//README.md)
 - **bdk2zn** - [ Leonardo Goco](people/bdk2zn//README.md)
 - **cts4ys** - [ Kyle Hagerstrom](people/cts4ys//README.md)
 - **cwe9gz** - [ Anthony Jiang](people/cwe9gz//README.md)
