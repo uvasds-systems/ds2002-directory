@@ -1,8 +1,9 @@
 # ds2002-directory
  
-A people directory for DS2002 \(54 people\)
+A people directory for DS2002 \(55 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
+- **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
 - **asr7cd** - [ Hasita Nalluri](people/asr7cd//README.md)
 - **bdk2zn** - [ Leonardo Goco](people/bdk2zn//README.md)
