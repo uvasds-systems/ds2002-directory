@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(51 people\)
+A people directory for DS2002 \(52 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -23,6 +23,7 @@ A people directory for DS2002 \(51 people\)
 - **jyr3um** - [ Anuti Shah](people/jyr3um//README.md)
 - **ked6na** - [ Troy S. Meink](people/ked6na//README.md)
 - **kfa7et** - [ Brittany Asare](people/kfa7et//README.md)
+- **kwh8kj** - [Hometown: Denver, Colorado](people/kwh8kj//README.md)
 - **kyj7zq** - [ Phillip Bonsu ](people/kyj7zq//README.md)
 - **mmk2yy** - [ Shriya Dale](people/mmk2yy//README.md)
 - **mnk7hw** - [ Lily Williams](people/mnk7hw//README.md)
