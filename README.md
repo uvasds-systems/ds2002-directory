@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(42 people\)
+A people directory for DS2002 \(43 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -20,6 +20,7 @@ A people directory for DS2002 \(42 people\)
 - **jyr3um** - [ Anuti Shah](people/jyr3um//README.md)
 - **ked6na** - [ Troy S. Meink](people/ked6na//README.md)
 - **kfa7et** - [ Brittany Asare](people/kfa7et//README.md)
+- **kyj7zq** - [ Phillip Bonsu ](people/kyj7zq//README.md)
 - **mmk2yy** - [ Shriya Dale](people/mmk2yy//README.md)
 - **mnk7hw** - [ Lily Williams](people/mnk7hw//README.md)
 - **mqy3wj** - [ Tanya Sharma](people/mqy3wj//README.md)
