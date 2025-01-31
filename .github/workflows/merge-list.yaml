@@ -3,6 +3,8 @@ name: Docker Merge
 on:
   pull_request:
     types: [closed]
+    paths:
+      - people/**
 
 jobs:
   post_merge:
