@@ -1,9 +1,8 @@
 # ds2002-directory
  
-A people directory for DS2002 \(50 people\).
+A people directory for DS2002 \(50 people\)
  
-- **ajp3cx** - [ Sami Kang
-](people/ajp3cx//README.md)
+- **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
 - **asr7cd** - [ Hasita Nalluri](people/asr7cd//README.md)
 - **bdk2zn** - [ Leonardo Goco](people/bdk2zn//README.md)
@@ -34,8 +33,7 @@ A people directory for DS2002 \(50 people\).
 - **pbd3rb** - [ James Crowell](people/pbd3rb//README.md)
 - **pbp5hy** - [ Albert Kang](people/pbp5hy//README.md)
 - **pby5br** - [ Jamie Tran](people/pby5br//README.md)
-- **pmx4nx** - [ Huyen Huynh
-](people/pmx4nx//README.md)
+- **pmx4nx** - [ Huyen Huynh](people/pmx4nx//README.md)
 - **pxr6gr** - [ Justin Yang](people/pxr6gr//README.md)
 - **rnr7tu** - [ Laura Carbaugh](people/rnr7tu//README.md)
 - **rpg7rq** - [Sarah Francis](people/rpg7rq//README.md)
