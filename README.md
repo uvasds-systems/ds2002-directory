@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(52 people\)
+A people directory for DS2002 \(53 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -10,6 +10,7 @@ A people directory for DS2002 \(52 people\)
 - **cwe9gz** - [ Anthony Jiang](people/cwe9gz//README.md)
 - **cww2qv** - [ Maggie Welch](people/cww2qv//README.md)
 - **czg9kd** - [ Ngoc Lam](people/czg9kd//README.md)
+- **dpj7jx** - [ Shinjini Bose](people/dpj7jx//README.md)
 - **dyd6mg** - [ Kira Chung](people/dyd6mg//README.md)
 - **ewg2bd** - [ Maggie Laflam](people/ewg2bd//README.md)
 - **fyr5ht** - [ Harry Shield](people/fyr5ht//README.md)
