@@ -1,6 +1,6 @@
 # Phillip Bonsu 
 
-![Path to an image](myphoto.jpg)
+![Path to an image](IMG_3626.jpeg)
 
 - Hometown: Ashburn, VA
 - Hobbies: Outdoor Running, Cooking, reading books (my favorite book is Gifted Hands)
