@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(40 people\)
+A people directory for DS2002 \(41 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -24,6 +24,7 @@ A people directory for DS2002 \(40 people\)
 - **mqy3wj** - [ Tanya Sharma](people/mqy3wj//README.md)
 - **nem2p** - [ Neal Magee](people/nem2p//README.md)
 - **newfolder** - [ Ellah Thomas](people/newfolder//README.md)
+- **nkg9gm** - [ Ally O'Shea](people/nkg9gm//README.md)
 - **nqt2bq** - [ Ryan Russo](people/nqt2bq//README.md)
 - **pbd3rb** - [ James Crowell](people/pbd3rb//README.md)
 - **pbp5hy** - [ Albert Kang](people/pbp5hy//README.md)
