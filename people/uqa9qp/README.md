@@ -1,6 +1,6 @@
-# Simone M.
+# Simone Minor
 
-![Path to an image](https://www.tatnall.org/media/filter/news)
+![Path to an image](IMG_7846.jpeg)
 
 - Hometown: Delaware (it is so small that putting the city is too specific LOL ifykyk) 
 - Hobbies: crocheting, listening to podcasts, baking, pinteresting
