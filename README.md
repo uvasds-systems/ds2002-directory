@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(33 people\)
+A people directory for DS2002 \(37 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -22,6 +22,7 @@ A people directory for DS2002 \(33 people\)
 - **mqy3wj** - [ Tanya Sharma](people/mqy3wj//README.md)
 - **nem2p** - [ Neal Magee](people/nem2p//README.md)
 - **newfolder** - [ Ellah Thomas](people/newfolder//README.md)
+- **nqt2bq** - [ Ryan Russo](people/nqt2bq//README.md)
 - **pbd3rb** - [ James Crowell](people/pbd3rb//README.md)
 - **pby5br** - [ Jamie Tran](people/pby5br//README.md)
 - **pmx4nx** - [ Huyen Huynh](people/pmx4nx//README.md)
@@ -32,6 +33,9 @@ A people directory for DS2002 \(33 people\)
 - **usp4pg** - [ Vincent Zhang](people/usp4pg//README.md)
 - **vxn4cm** - [ Ronit Malhotra](people/vxn4cm//README.md)
 - **wka4sp** - [ Mina Tunley](people/wka4sp//README.md)
+- **xuk7sp** - [ Nathan Suh](people/xuk7sp//README.md)
+- **ykr2ku** - [ Isabella Zhou](people/ykr2ku//README.md)
 - **ync5ad** - [ Kaden Nguyen](people/ync5ad//README.md)
 - **zmx3ra** - [ Rachel Kersey](people/zmx3ra//README.md)
 - **znv2ef** - [ Sierra Platt](people/znv2ef//README.md)
+- **zqj2mn** - [ Chayun Kim](people/zqj2mn//README.md)
