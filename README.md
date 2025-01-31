@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(44 people\)
+A people directory for DS2002 \(45 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
@@ -35,6 +35,7 @@ A people directory for DS2002 \(44 people\)
 - **pxr6gr** - [ Justin Yang](people/pxr6gr//README.md)
 - **rnr7tu** - [ Laura Carbaugh](people/rnr7tu//README.md)
 - **rpg7rq** - [Sarah Francis](people/rpg7rq//README.md)
+- **rvu2dd** - [](people/rvu2dd//README.md)
 - **uqa9qp** - [ Simone Minor](people/uqa9qp//README.md)
 - **usp4pg** - [ Vincent Zhang](people/usp4pg//README.md)
 - **vxn4cm** - [ Ronit Malhotra](people/vxn4cm//README.md)
