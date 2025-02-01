@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(62 people\)
+A people directory for DS2002 \(63 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -26,6 +26,7 @@ A people directory for DS2002 \(62 people\)
 - **jdx7es** - [ Bowen Slingluff](people/jdx7es//README.md)
 - **jjk2jy** - [ Eileen Kopp](people/jjk2jy//README.md)
 - **jmf5em** - [ Pallavi Mamillapalli](people/jmf5em//README.md)
+- **jqk5ct** - [ Miya Livingston](people/jqk5ct//README.md)
 - **jyr3um** - [ Anuti Shah](people/jyr3um//README.md)
 - **ked6na** - [ Troy S. Meink](people/ked6na//README.md)
 - **kfa7et** - [ Brittany Asare](people/kfa7et//README.md)
