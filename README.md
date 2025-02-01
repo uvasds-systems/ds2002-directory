@@ -2,12 +2,13 @@
  
 A people directory for DS2002 \(63 people\)
  
-- **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
+- **ajp3cx** - [ Sami Kang
+](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
 - **asq7mf** - [ Diya Patel](people/asq7mf//README.md)
 - **asr7cd** - [ Hasita Nalluri](people/asr7cd//README.md)
 - **bdk2zn** - [ Leonardo Goco](people/bdk2zn//README.md)
-- **byz7ex** - [ÿþ# Sia Patel](people/byz7ex//README.md)
+- **byz7ex** - [ Sia Patel](people/byz7ex//README.md)
 - **cts4ys** - [ Kyle Hagerstrom](people/cts4ys//README.md)
 - **cwe9gz** - [ Anthony Jiang](people/cwe9gz//README.md)
 - **cww2qv** - [ Maggie Welch](people/cww2qv//README.md)
@@ -45,7 +46,7 @@ A people directory for DS2002 \(63 people\)
 - **pbd3rb** - [ James Crowell](people/pbd3rb//README.md)
 - **pbp5hy** - [ Albert Kang](people/pbp5hy//README.md)
 - **pby5br** - [ Jamie Tran](people/pby5br//README.md)
-- **pmx4nx** - [ Huyen Huynh](people/pmx4nx//README.md)
+- **pmx4nx** - [ Huyen Huynh](people/pmx4nx//README.md)
 - **pxr6gr** - [ Justin Yang](people/pxr6gr//README.md)
 - **rnr7tu** - [ Laura Carbaugh](people/rnr7tu//README.md)
 - **rpg7rq** - [Sarah Francis](people/rpg7rq//README.md)
