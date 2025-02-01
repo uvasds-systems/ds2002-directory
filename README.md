@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(58 people\)
+A people directory for DS2002 \(59 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -15,6 +15,7 @@ A people directory for DS2002 \(58 people\)
 - **dpj7jx** - [ Shinjini Bose](people/dpj7jx//README.md)
 - **dyd6mg** - [ Kira Chung](people/dyd6mg//README.md)
 - **ewg2bd** - [ Maggie Laflam](people/ewg2bd//README.md)
+- **frm8ux** - [ Thomas Welch](people/frm8ux//README.md)
 - **fyr5ht** - [ Harry Shield](people/fyr5ht//README.md)
 - **gbv6nj** - [ Amanda Nordwall](people/gbv6nj//README.md)
 - **ghn9zh** - [Gwen Thompson](people/ghn9zh//README.md)
