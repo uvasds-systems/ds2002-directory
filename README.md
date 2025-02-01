@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(60 people\)
+A people directory for DS2002 \(61 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -21,6 +21,7 @@ A people directory for DS2002 \(60 people\)
 - **gbv6nj** - [ Amanda Nordwall](people/gbv6nj//README.md)
 - **ghn9zh** - [Gwen Thompson](people/ghn9zh//README.md)
 - **gzy5jd** - [ Jackson Glass](people/gzy5jd//README.md)
+- **jcm5md** - [ Tanvee Sunkari](people/jcm5md//README.md)
 - **jcs3qy** - [ Isabel Xiao](people/jcs3qy//README.md)
 - **jdx7es** - [ Bowen Slingluff](people/jdx7es//README.md)
 - **jjk2jy** - [ Eileen Kopp](people/jjk2jy//README.md)
