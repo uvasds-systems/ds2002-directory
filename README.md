@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(57 people\)
+A people directory for DS2002 \(58 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -31,6 +31,7 @@ A people directory for DS2002 \(57 people\)
 - **kyk4ge** - [](people/kyk4ge//README.md)
 - **mmk2yy** - [ Shriya Dale](people/mmk2yy//README.md)
 - **mnk7hw** - [ Lily Williams](people/mnk7hw//README.md)
+- **mpp9cu** - [ Raul Cancho](people/mpp9cu//README.md)
 - **mqy3wj** - [ Tanya Sharma](people/mqy3wj//README.md)
 - **nem2p** - [ Neal Magee](people/nem2p//README.md)
 - **newfolder** - [ Ellah Thomas](people/newfolder//README.md)
