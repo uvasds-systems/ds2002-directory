@@ -1,6 +1,6 @@
 # Wadie Abboud
 
-![AbboudHeadshot] (AbboudHeadshot.JPG)
+![AbboudHeadshot](AbboudHeadshot.JPG)
 
 - Hometown: Vienna, VA
 - Hobbies: Soccer, tennis, cooking, travelling. 
