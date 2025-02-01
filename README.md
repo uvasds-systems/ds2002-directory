@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(55 people\)
+A people directory for DS2002 \(56 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -27,6 +27,7 @@ A people directory for DS2002 \(55 people\)
 - **kfa7et** - [ Brittany Asare](people/kfa7et//README.md)
 - **kwh8kj** - [Hometown: Denver, Colorado](people/kwh8kj//README.md)
 - **kyj7zq** - [ Phillip Bonsu ](people/kyj7zq//README.md)
+- **kyk4ge** - [](people/kyk4ge//README.md)
 - **mmk2yy** - [ Shriya Dale](people/mmk2yy//README.md)
 - **mnk7hw** - [ Lily Williams](people/mnk7hw//README.md)
 - **mqy3wj** - [ Tanya Sharma](people/mqy3wj//README.md)
