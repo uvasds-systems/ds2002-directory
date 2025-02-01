@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(61 people\)
+A people directory for DS2002 \(62 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -29,6 +29,7 @@ A people directory for DS2002 \(61 people\)
 - **jyr3um** - [ Anuti Shah](people/jyr3um//README.md)
 - **ked6na** - [ Troy S. Meink](people/ked6na//README.md)
 - **kfa7et** - [ Brittany Asare](people/kfa7et//README.md)
+- **kng5vf** - [ Matthew Balison](people/kng5vf//README.md)
 - **kwh8kj** - [Hometown: Denver, Colorado](people/kwh8kj//README.md)
 - **kyj7zq** - [ Phillip Bonsu ](people/kyj7zq//README.md)
 - **kyk4ge** - [](people/kyk4ge//README.md)
