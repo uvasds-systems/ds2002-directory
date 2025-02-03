@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(63 people\)
+A people directory for DS2002 \(64 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -50,6 +50,7 @@ A people directory for DS2002 \(63 people\)
 - **rnr7tu** - [ Laura Carbaugh](people/rnr7tu//README.md)
 - **rpg7rq** - [Sarah Francis](people/rpg7rq//README.md)
 - **rqc3sa** - [ Elle Park](people/rqc3sa//README.md)
+- **rvu2dd** - [ Brendan Kilduff](people/rvu2dd//README.md)
 - **rxb8yt** - [ Olivia Park](people/rxb8yt//README.md)
 - **rxk8gn** - [ Morgan Simmons](people/rxk8gn//README.md)
 - **ucu8tt** - [ Wadie Abboud](people/ucu8tt//README.md)
