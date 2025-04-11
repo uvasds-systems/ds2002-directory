@@ -1,6 +1,6 @@
 # ds2002-directory
  
-A people directory for DS2002 \(65 people\)
+A people directory for DS2002 \(66 people\)
  
 - **ajp3cx** - [ Sami Kang](people/ajp3cx//README.md)
 - **akz9rb** - [ Quinn Connor](people/akz9rb//README.md)
@@ -54,6 +54,7 @@ A people directory for DS2002 \(65 people\)
 - **rvu2dd** - [ Brendan Kilduff](people/rvu2dd//README.md)
 - **rxb8yt** - [ Olivia Park](people/rxb8yt//README.md)
 - **rxk8gn** - [ Morgan Simmons](people/rxk8gn//README.md)
+- **thj2zk** - [ Alessia Natalucci](people/thj2zk//README.md)
 - **ucu8tt** - [ Wadie Abboud](people/ucu8tt//README.md)
 - **uqa9qp** - [ Simone Minor](people/uqa9qp//README.md)
 - **usp4pg** - [ Vincent Zhang](people/usp4pg//README.md)
